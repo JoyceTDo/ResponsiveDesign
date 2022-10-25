@@ -1,2 +1,2 @@
-# Kirsten Marklye
+# Joyce Do
 ## Responsive Design Lesson Starter Files
